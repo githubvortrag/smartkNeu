@@ -41,7 +41,7 @@ public class Testdriver {
 		//inventar.geräteSpeichern();
 	//	einKühlschrank.vorhandenenAufschnittHinzufügen(01);
 		
-		
+		System.out.println("Hallo");
 		
 	//	einKühlschrank.vorhandenenAufschnittHinzufügen(01);
 		einKühlschrank.getBestände().displayUI();

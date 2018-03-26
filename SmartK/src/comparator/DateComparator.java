@@ -19,5 +19,9 @@ public class DateComparator implements Comparator<Datumsangaben>{
 		}
 		return 1;
 	}
+	
+	public int return1(){
+		return 1;
+	}
 
 }
